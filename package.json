@@ -1,17 +1,17 @@
 {
-  "name": "conventional-commit-types",
-  "version": "3.0.0",
+  "name": "epflDojo-commit-types",
+  "version": "3.0.1",
   "description": "List of conventional commit types.",
   "main": "index.json",
   "scripts": {
     "test": "json -f index.json"
   },
   "keywords": [],
-  "author": "Anders D. Johnson",
-  "license": "ISC",
+  "author": "EPFL-DOJO",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/commitizen/conventional-commit-types.git"
+    "url": "https://github.com/epfl-dojo/epflDojo-commit-types.git"
   },
   "devDependencies": {
     "json": "^9.0.4"
